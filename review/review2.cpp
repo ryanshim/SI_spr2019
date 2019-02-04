@@ -1,4 +1,8 @@
 // CPSC 131 SI: Review Exercise 2
+//
+// Compile: g++ -std=c++11 review2.cpp -o review2
+// Run: ./review2
+//
 // 1. Instantiate a Student object in the heap.
 // 2. Complete the functions that allow a user to populate the values
 //    within the struct and displays the student object passed in.

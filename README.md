@@ -5,3 +5,4 @@ Repository to hold coding exercises for the data structures supplemental instruc
 - review
     - review1.cpp: Stack/heap arrays, loops, function calls.
     - review2.cpp: Structs, heap mem, loops, function calls.
+- FixedVector: FixedVector skeleton header file and tests for class functions.
